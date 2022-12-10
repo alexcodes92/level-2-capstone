@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<div
+  className="mb-4 mt-4 container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-lg-4 col-6"
+      mb={2}
+    >
+      <div
+        className="mb-3 card"
+      >
+        <img
+          className="card-img-top"
+          src="image-url"
+        />
+        <div
+          className="card-body"
+        >
+          <a
+            className="card-link"
+            href="url"
+            target="_blank"
+          >
+            <div
+              className="card-title h5"
+            >
+              Everlong
+            </div>
+          </a>
+          <div
+            className="mb-4 card-subtitle h6"
+          >
+            Foo Fighters
+          </div>
+          <button
+            className="p-2 btn btn-danger"
+            disabled={false}
+            onClick={[Function]}
+            type="button"
+          >
+            Remove from favourites
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
